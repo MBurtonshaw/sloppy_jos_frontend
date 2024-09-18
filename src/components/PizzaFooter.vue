@@ -1,6 +1,6 @@
 <template>
     <footer class="container-fluid text-center">
-        <a class="nonchalant pt-4" href="https://verdant-cranachan-f205b0.netlify.app/">&copy; 2024 Sloppy Jo's Pizza. All rights reserved.</a>
+        <a class="nonchalant pt-4" href="https://matthew-burtonshaw.netlify.app/">&copy; 2024 Sloppy Jo's Pizza. All rights reserved.</a>
     </footer>
 </template>
 <script>
